@@ -1,0 +1,8 @@
+openai
+fastapi
+uvicorn
+langchain
+langchain-community 
+langchain-core
+docarray
+langchain_openai
